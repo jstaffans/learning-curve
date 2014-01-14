@@ -1,4 +1,14 @@
-Learning curve
-==============
+# learning-curve
 
-The goal is to first implement a solution to some machine learning problem - we'll take the water level exercise from Coursera's Machine learning course as an example. Then, using incanter, plot a learning using a cross-validation set.  
+A Clojure library designed to ... well, that part is up to you.
+
+## Usage
+
+FIXME
+
+## License
+
+Copyright © 2014 FIXME
+
+Distributed under the Eclipse Public License either version 1.0 or (at
+your option) any later version.
